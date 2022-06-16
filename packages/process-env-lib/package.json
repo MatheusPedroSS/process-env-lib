@@ -1,0 +1,19 @@
+{
+  "name": "process-env-lib",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Matheus Pedro S S <matheus.pedro.sousa@accenture.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/process-env-lib.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
